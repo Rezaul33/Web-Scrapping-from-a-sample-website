@@ -1,0 +1,7 @@
+jupyter
+ipykernel
+requests
+beautifulsoup4
+pandas
+lxml
+html5lib
