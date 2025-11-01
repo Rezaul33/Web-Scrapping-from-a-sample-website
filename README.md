@@ -20,11 +20,11 @@ Requirements
 
 Quick start
 1. Create and activate a virtual environment (recommended):
-   - python -m venv .venv
-   - Windows: .venv\Scripts\activate
-   - macOS/Linux: source .venv/bin/activate
+   - python `-m venv .venv`
+   - Windows: `.venv\Scripts\activate`
+   - macOS/Linux: `source .venv/bin/activate`
 2. Install dependencies:
-   - pip install -r requirements.txt
+   `- pip install -r requirements.txt`
 3. Open the notebook:
    - In VS Code: open [data scrapping from a sample website..ipynb](data scrapping from a sample website..ipynb)
    - Or start Jupyter: jupyter notebook
@@ -33,5 +33,6 @@ Quick start
 Notes
 - The notebook currently fetches data from: https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
 - If the page structure changes, update the table selection logic in the notebook.
+
 
 
