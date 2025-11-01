@@ -16,7 +16,7 @@ Key symbols in the notebook
 
 Requirements
 - Python 3.9 (notebook metadata indicates Python 3.9.13)
-- See [requirements.txt]([requirements.txt](https://github.com/Rezaul33/Web-Scrapping-from-a-sample-website/blob/main/requirments.txt)) for the exact packages.
+- See [requirements.txt]([https://github.com/Rezaul33/Web-Scrapping-from-a-sample-website/blob/main/requirments.txt]) for the exact packages.
 
 Quick start
 1. Create and activate a virtual environment (recommended):
@@ -33,4 +33,5 @@ Quick start
 Notes
 - The notebook currently fetches data from: https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
 - If the page structure changes, update the table selection logic in the notebook.
+
 
